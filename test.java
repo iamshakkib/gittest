@@ -8,6 +8,8 @@ class test{
 		while(t-->0)
 		{
 			System.out.println("hello new integration in the domain of competitive programming");
+			System.out.println("Shakkib");
+			System.out.println("updated");
 		}
 	}
 }
